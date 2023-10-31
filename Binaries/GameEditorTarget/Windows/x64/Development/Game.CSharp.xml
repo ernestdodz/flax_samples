@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Game.CSharp</name>
+    </assembly>
+    <members>
+        <member name="T:Game.Character">
+            <summary>
+            A basic character script that supports movement, camera handling, jumping and sprinting.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+DotNetSdk, 7.0.400.9999, C:\Program Files\dotnet\
+AndroidNdk, missing
+AndroidSdk, 1.0, C:\Users\anoni\AppData\Local\Android\Sdk
+XCode, missing
+GDK, missing

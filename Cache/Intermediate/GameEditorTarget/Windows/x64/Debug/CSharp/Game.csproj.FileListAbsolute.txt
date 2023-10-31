@@ -1,0 +1,12 @@
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Binaries\GameEditorTarget\Windows\x64\Debug\Game.CSharp.xml
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Binaries\GameEditorTarget\Windows\x64\Debug\Game.CSharp.deps.json
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Binaries\GameEditorTarget\Windows\x64\Debug\Game.CSharp.runtimeconfig.json
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Binaries\GameEditorTarget\Windows\x64\Debug\Game.CSharp.dll
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Binaries\GameEditorTarget\Windows\x64\Debug\Game.CSharp.pdb
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.csproj.AssemblyReference.cache
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.csproj.CoreCompileInputs.cache
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.csproj.CopyComplete
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.CSharp.dll
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.CSharp.pdb
+C:\Users\anoni\OneDrive\Documents\Flax Projects\MyProject\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp\Game.genruntimeconfig.cache
